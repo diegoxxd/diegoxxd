@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegoxxd
 - 👀 I’m interested in design graphic, design web and codes.
-- 🌱 I’m currently learning html, css and javascript. 
+- 🌱 I’m currently learning html, css, javascript and python. 
 - 🚀 I'm ready for learning about frameworks and backend.
 
 
