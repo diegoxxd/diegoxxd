@@ -1,11 +1,12 @@
-
 # Hi there! 👋
 
-My name is DiegoxxD. 
+My name is Diego. 
 
-Luckily, you have found my coding area. Don't worry! To be honest, this is where I come to practice some programing languages. Probably, you're just wondering what I post here... Nothing in particular. 
+Luckily, you've discovered my code workspace!
 
-But I'll show some things about me... 
+Probably, you're wondering what I'm sharing. To be honest, I use this place to improve coding skills.
+
+I'll tell you more about this.. 
 
 **Languages which I'm learning:**
 - HTML
@@ -22,6 +23,8 @@ But I'll show some things about me...
 * Angular
 * Vue
 * Node Js
+
+
 
 
 
